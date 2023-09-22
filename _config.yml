@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "🌼"
+title                    : "dandel"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "dandelion"
-description              : "🌼"
+description              : "dandel"
 url                      : "https://dandel6.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "dandelion"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "🌼"
+  bio              : "-"
   location         : "South Korea"
   email            :
   links:
